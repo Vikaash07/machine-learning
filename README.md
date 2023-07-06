@@ -1,4 +1,7 @@
 #prediction for Olympic  medals - machine learning
+
+
+
 The objective of this study is to develop a machine learning prediction model that can accurately forecast the medal counts for different countries in upcoming Olympic years. By leveraging historical data on past Olympic Games and various features associated with participating countries, the model aims to provide insights into the potential medal standings in future events. The proposed model utilizes a combination of feature engineering, data preprocessing, and supervised learning algorithms to achieve accurate predictions.
 
 Data Collection and Preprocessing:
